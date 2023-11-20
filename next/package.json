@@ -38,7 +38,7 @@
     "axios": "^0.26.0",
     "cheerio": "^1.0.0-rc.12",
     "clsx": "^1.2.1",
-    "cookies-next": "^2.1.2",
+    "cookies-next": "^4.1.0",
     "framer-motion": "^10.12.8",
     "graphology": "^0.25.1",
     "gray-matter": "^4.0.3",
