@@ -30,7 +30,7 @@ langchain = "^0.0.295"
 openai = "^0.28.0"
 wikipedia = "^1.4.0"
 replicate = "^0.22.0"
-lanarky = "^0.7.15"
+lanarky = "^0.7.17"
 tiktoken = "^0.5.1"
 grpcio = "^1.58.0"
 pinecone-client = { version = "^2.2.4", extras = ["grpc"] }
