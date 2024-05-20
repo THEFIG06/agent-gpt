@@ -17,7 +17,7 @@ boto3 = "^1.28.51"
 uvicorn = { version = "^0.22.0", extras = ["standard"] }
 pydantic = { version = "<2.0", extras = ["dotenv"] }
 yarl = "^1.9.2"
-ujson = "^5.8.0"
+ujson = "^5.10.0"
 sqlalchemy = { version = "^2.0.21", extras = ["mypy", "asyncio"] }
 aiomysql = "^0.1.1"
 mysqlclient = "^2.2.0"
