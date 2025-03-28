@@ -37,7 +37,7 @@ pinecone-client = { version = "^2.2.4", extras = ["grpc"] }
 networkx = "^3.1"
 python-multipart = "^0.0.18"
 aws-secretsmanager-caching = "^1.1.1.5"
-botocore = "^1.31.51"
+botocore = "^1.31.85"
 stripe = "^5.5.0"
 cryptography = "^41.0.4"
 
